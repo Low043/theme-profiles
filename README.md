@@ -16,6 +16,7 @@
 - enable home crossing: `chmod o+x ~`
 - enable profile read: `chmod -R 755 ~/theme-profiles`
 - link waybar: `ln -s ~/theme-profiles/waybar ~/.config/waybar`
+- link waybar style: `ln -s ~/theme-profiles/waybar/death_life_colors.css ~/theme-profiles/waybar/colors.css`
 - set rofi theme on hyprland.conf: `$menu = ~/.config/rofi/launchers/type-1/launcher.sh`
 - link nwg themes: `ln -s ~/theme-profiles/themes ~/.themes`
 - link nwg icons: `ln -s ~/theme-profiles/icons ~/.icons`
